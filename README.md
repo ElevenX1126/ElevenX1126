@@ -40,7 +40,7 @@
     <img src="https://img.shields.io/badge/Website-ElevenX1126.GITHUB.IO-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-<p align="left"> <a href="https://jayli19707.github.io"> <img src="https://img.shields.io/badge/Website-JAYLI19707.GITHUB.IO-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="mailto:your.email@gmail.com"> <img src="https://img.shields.io/badge/Email-YOUR.EMAIL@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/jayli19707"> <img src="https://img.shields.io/badge/GitHub-JAYLI19707-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+
 ---
 
 ### 📸 镜头下的瞬间

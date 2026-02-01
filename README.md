@@ -30,6 +30,17 @@
 ## 📸 镜头下的瞬间
 *“在代码之外，寻找光影的节奏。”*
 
+<p align="center">
+  <img src="./images/重庆.jpg" width="100%" style="border-radius: 10px;">
+  <br>
+  <em>📸 摄于 [重庆] · [Nikon Z6Ⅱ]</em>
+</p>
+
+<p align="center">
+  <img src="./images/DSC_0309_1.jpg" width="100%" style="border-radius: 10px;">
+  <br>
+  <em>📸 摄于 [青岛] · [Nikon Z6Ⅱ]</em>
+</p>
 
 ---
 

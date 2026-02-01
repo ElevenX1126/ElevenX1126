@@ -31,7 +31,7 @@
 *“在代码之外，寻找光影的节奏。”*
 
 <p align="center">
-  <img src="./images/chongqing.JPG" width="75%" style="border-radius: 10px;">
+  <img src="./images/cq.jpg" width="75%" style="border-radius: 10px;">
   <br>
   <em>📸 摄于 [重庆] · [Nikon Z6Ⅱ]</em>
 </p>

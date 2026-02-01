@@ -1,63 +1,62 @@
-Hi, I'm [你的名字]
-上海交通大学软件工程本科在读 | 探索深度学习与LLM的开发者
+# 👋 哈喽，我是 [你的名字/许多]
 
-🎓 关于我
-🏫 教育背景：上海交通大学软件工程专业本科在读
+> 专注 AI 与 软件工程 的开发者 | 终身学习者
 
-🧠 当前方向：专注于深度学习与大型语言模型（LLM）的技术研究
+### 🚀 关于我
 
-📚 正在学习：PyTorch深度学习框架、Transformer架构、LLM微调技术
+* 🎓 **教育背景**：**上海交通大学** · 软件工程专业 · 本科在读
+* 🤖 **研究兴趣**：目前正深入探索 **深度学习 (Deep Learning)** 与 **大语言模型 (LLM)** 相关领域。
+* ✍️ **技术沉淀**：热衷于 **技术写作** 与 **博客分享**，相信“教是最好的学”。
+* 📸 **热爱生活**：是一名 **旅行者** 和 **摄影爱好者**，喜欢用镜头记录镜头下的瞬间与思考。
 
-✍️ 创作分享：尝试技术博客写作，分享学习心得与实践经验
+---
 
-🌍 生活热爱：旅行中探索世界，摄影中记录美好瞬间
+### 🛠 技术栈
 
-📊 GitHub 统计
-https://github-readme-stats.vercel.app/api?username=%5B%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D%5D&show_icons=true&theme=radical&hide_title=true
+**编程语言**
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=%5B%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D%5D&layout=compact&theme=radical&langs_count=6
+**机器学习 & AI**
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Learning-blueviolet?style=flat-square&logo=googlegemini&logoColor=white)
 
-Profile Views
-https://komarev.com/ghpvc/?username=%5B%E4%BD%A0%E7%9A%84GitHub%E7%94%A8%E6%88%B7%E5%90%8D%5D&color=blue&style=flat
+---
 
-🛠️ 技术栈
-💻 编程语言
-https://img.shields.io/badge/C++-00599C?logo=c%252B%252B&logoColor=white
-https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black
-https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white
+### 📊 GitHub 统计
 
-🤖 机器学习 & AI
-https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white
-https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=你的Github用户名&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的Github用户名&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-📊 开发工具
-https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white
+---
 
-📝 最新博客文章
-<!-- 这里可以添加你的博客文章列表 -->
-我的第一篇技术博客
+### 🤝 联系方式
 
-深度学习入门笔记
+<p align="left">
+  <a href="https://github.com/你的Github用户名">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:你的邮箱地址">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="你的个人主页链接">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
-LLM实践分享
+---
 
-更多内容请访问我的博客：我的技术博客
+### 📸 镜头下的瞬间
+*“在代码之外，寻找光影的节奏。”*
 
-📫 联系方式
-<div align="center">
-🔗 与我联系
-https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white
-https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white
-https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-4285F4?logo=google-chrome&logoColor=white
+---
 
-</div>
-<div align="center">
-⭐️ 欢迎访问我的GitHub仓库并给予Star支持 ⭐️
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=你的Github用户名&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-在代码的世界里探索无限可能
-
-</div> ```
+<p align="center">感谢访问！如果我的项目对你有帮助，欢迎点个 ⭐</p>

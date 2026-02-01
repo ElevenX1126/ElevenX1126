@@ -27,6 +27,12 @@
 
 ---
 
+### 📸 镜头下的瞬间
+*“在代码之外，寻找光影的节奏。”*
+
+
+---
+
 ### 🤝 联系方式
 
 <p align="left">
@@ -40,11 +46,6 @@
     <img src="https://img.shields.io/badge/Website-ELEVENX1126.GITHUB.IO-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
----
-
-### 📸 镜头下的瞬间
-*“在代码之外，寻找光影的节奏。”*
 
 ---
 

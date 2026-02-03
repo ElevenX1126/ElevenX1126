@@ -53,8 +53,8 @@
   <a href="mailto:xuduo18135717204@sjtu.edu.cn">
     <img src="https://img.shields.io/badge/Email-XUDUO18135717204@SJTU.EDU.CN-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://elevenx1126.github.io">
-    <img src="https://img.shields.io/badge/Website-ELEVENX1126.GITHUB.IO-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://www.elevenx.me">
+    <img src="https://img.shields.io/badge/Website-ELEVENX.ME-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
